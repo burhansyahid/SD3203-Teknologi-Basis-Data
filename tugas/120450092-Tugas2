@@ -1,0 +1,20 @@
+Materialized views & Transactions
+Tools
+
+Java Programming
+DBMS Seperti Mysql, Postgress, MariaDB dll.
+Tujuan: Mampu membuat material view dan transaction
+
+Deskripsi
+
+Pastikan DBMS sudah terinstall dan sedang dalam keadaan run
+Download Query DDL. Download DDL
+Buat Schema Database. Contoh DBMS1
+Eksekusi SQL pada bagian (2)
+Download Code dalam bahasa pemrograman Java. Download Code
+Compile dan jalan code tersebut pada komputer anda.
+$javac tableGen.java
+$java tableGen
+Buat contoh Materialized view dan transactions (masing-masing 5)
+Thank, Selamat mengerjakan 😊
+
